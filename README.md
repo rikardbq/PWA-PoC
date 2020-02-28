@@ -20,3 +20,6 @@ https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_worke
 
 ### see webUSB-api
 https://wicg.github.io/webusb/
+
+### usb vendor id list
+http://www.linux-usb.org/usb.ids
